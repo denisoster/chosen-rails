@@ -211,7 +211,6 @@ class Chosen extends AbstractChosen
 
     this.search_field_disabled()
     this.show_search_field_default()
-    this.search_field_scale()
 
     @parsing = false
 
